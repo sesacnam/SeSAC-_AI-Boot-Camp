@@ -1,2 +1,2 @@
 # SeSAC-_AI-Boot-Camp
-새싹(SeSAC) New금천캠퍼스 2기 인공지능 과정 : 기업데이터를 활용한 AI 취업 부트캠프 (2022.10.24 ~ 2023.02.28)
+*SeSAC Geumcheon Campus 2nd Artificial Intelligence course : AI Job Boot Camp, using corporate data. (2022.10.24 ~ 2023.02.28)*
